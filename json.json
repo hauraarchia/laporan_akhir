@@ -1,0 +1,28 @@
+[
+    {
+        "id_barang":"1",
+        "kode_barang":"8992775111",
+        "nama_barang":"GARUDA BIGA 65 G"
+        
+    },
+    {
+        "id_barang":"2",
+        "kode_barang":"8992775610",
+        "nama_barang":"GARUDA TING-TING 2.5 G"
+    },
+    {
+        "id_barang":"3",
+        "kode_barang":"8995555121",
+        "nama_barang":"KIMBO REDDI SOSIS AYAM 23 G"
+    },
+    {
+        "id_barang":"4",
+        "kode_barang":"8995555111",
+        "nama_barang":"KIMBO REDDI SOSIS SAPI 23 G"
+    },
+    {
+        "id_barang":"5",
+        "kode_barang":"8995555171",
+        "nama_barang":"KIMBO REDDI OTAK OTAK 20.5 G"
+    }
+]
